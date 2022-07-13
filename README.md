@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skreczi
 - 👀 I’m interested in RPG, LARP, boardgames and test automation
-- 🌱 I’m currently learning Selenium in Java and Cypress
+- 🌱 I’m currently learning Java Script, Webdriver IO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: adam.kreczmanski@gmail.com
 
